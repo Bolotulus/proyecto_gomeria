@@ -1,0 +1,11 @@
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\bin\Debug\Gomeria.exe.config
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\bin\Debug\Gomeria.exe
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\bin\Debug\Gomeria.pdb
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.csprojAssemblyReference.cache
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.Properties.Resources.resources
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.csproj.GenerateResource.cache
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.csproj.CoreCompileInputs.cache
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.exe
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.pdb
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.frm_inicio.resources
+C:\Users\Lucca Medina\Desktop\Proyecto Gomeria\Gomeria\Gomeria\obj\Debug\Gomeria.Forms.frm_login.resources
